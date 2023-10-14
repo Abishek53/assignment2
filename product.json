@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Blue Jeans",
+        "description": "A pair of classic blue jeans, perfect for any occasion.",
+        "price": 59.99,
+        "published": true,
+        "category": "Men"
+    },
+    {
+        "name": "Red Dress",
+        "description": "A stunning red dress made of silk.",
+        "price": 120.00,
+        "published": true,
+        "category": "Women"
+    },
+    {
+        "name": "Graphic T-Shirt",
+        "description": "A comfortable cotton t-shirt with a fun graphic print.",
+        "price": 25.00,
+        "published": false,
+        "category": "teens"
+    },
+    {
+        "name": "Leather Jacket",
+        "description": "A stylish black leather jacket.",
+        "price": 200.00,
+        "published": true,
+        "category": "Men"
+    }
+]
